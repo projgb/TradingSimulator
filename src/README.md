@@ -8,4 +8,4 @@ Simple module that runs exchange and trading apps in 2 different processes.
 Connection is achieved by local sockets/pipes.
 Simple orders can be sent on restricted symbols.
 
-### TODO.
+
